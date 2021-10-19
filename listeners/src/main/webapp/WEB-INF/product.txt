@@ -1,0 +1,6 @@
+Food	Potato Chips	500
+Food	Fish Fried	500
+Drink	Pepsi	600
+Drink	CocaCola	700
+Snack	Shoon Shoon	500
+Hot Tea	Thai Tea	700
